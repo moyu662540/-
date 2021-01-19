@@ -1,0 +1,13 @@
+
+# 工业品爱消除 （7天后可删）
+10 10-23 * * * bash jd dd_jd_gyec
+# 盲盒抽京豆
+0 10 * * * bash jd dd_jd_mh
+# 京东秒秒币
+0 11 * * * bash jd dd_jd_ms
+# 京东爱消除
+30 10-22 * * * bash jd dd_jd_xxl
+# 京东小鸽
+30 10 * * * bash jd dd_jd_xg
+# 京喜财富岛
+30 10-22 * * * bash jd dd_jx_cfd
